@@ -11,3 +11,4 @@ function printFibonacci($n)
     }
 }
 printFibonacci(15);
+?>
