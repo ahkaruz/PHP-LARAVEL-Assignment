@@ -14,3 +14,4 @@ while ($count < 10) {
     echo $a . " ";
     $count++;
 }
+?>
